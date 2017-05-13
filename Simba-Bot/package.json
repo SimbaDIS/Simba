@@ -1,0 +1,14 @@
+{
+  "name": "simba",
+  "version": "1.0.0",
+  "description": "a bot made by simbadiscord and hasanbrandsxd",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "simba-bot"
+  ],
+  "author": "hasanbrandsxd -- simbadiscord",
+  "license": "ISC"
+}
